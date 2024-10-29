@@ -5,6 +5,7 @@ This webpage gives the information regarding Physical Connection Issues and inte
 
 url 1: https://www.ctctechnologies.com/articles/is-your-business-wi-fi-acting-up-check-these-8-places-first
 
+This url helps the studemts those who puts the comments of their problems and hel[ps to gets the problem solved in very easy way
 
 url 2 :https://www.reddit.com/r/HomeNetworking/comments/rrz75c/wireless_access_points_stopped_working/
 
