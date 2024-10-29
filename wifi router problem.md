@@ -11,4 +11,4 @@ url 2 :https://www.reddit.com/r/HomeNetworking/comments/rrz75c/wireless_access_p
 
 url 3 : https://www.rogers.com/support/troubleshooting/internet
 
-url 4 : https://planetechusa.com/troubleshooting-your-way-to-a-perfect-wireless-access-point/
+
